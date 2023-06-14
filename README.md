@@ -4,7 +4,7 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 <br/>
 As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer.
 <br/>
-As such, I'm a webscrape, data migration, and web developer expert using Python, React, ELK, and AWS.
+As such, I'm a webscraper, data migration, and web developer expert using Python, React, ELK, and AWS.
 <br/>
 Currently, I'm interested in low-latency programming and building full-stack SaaS projects.
 <br/>
