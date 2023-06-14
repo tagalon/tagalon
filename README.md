@@ -38,6 +38,9 @@ Feel free to connect with me here:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
+## Independent Projects
+
+
 ## Coursework Projects
 These are projects which built my foundation for understanding logic and developing intuition for programming across data structures and AI.
 Currently, I'm most fond of Pac-Man, Text-Digit Classification, and  Bear Maps so please check out their implementations.
