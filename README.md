@@ -2,7 +2,7 @@
 
 I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer. As such, I'm a webscrape, data migration, and web developer expert using Python, React, ELK, and AWS. 
 Currently, I'm interested in low-latency programming and building SaaS projects.
-&nbsp;
+<br/>
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rahulravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/rahul-ravella-359b48161/)
