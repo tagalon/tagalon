@@ -7,13 +7,14 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 
 
 Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI. Using Python and Java, I've worked on custom implementations for
-  - Hog Game (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
-  - Type Racer (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
-  - Tower Defense Game, inspired by Plants vs. Zombies (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
-  - Bear Maps (http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
-  - 2D Tile Dungeon Game (http://fa20.datastructur.es/materials/proj/proj3/proj3)
-  - Pac-Man with AI (https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
-  - Text-Digit Classification with ML (https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
+-Project, Documentation
+  - [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
+  - [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
+  - [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/), inspired by Plants vs. Zombies
+  - [Bear Maps](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
+  - [2D Tile Dungeon Game](http://fa20.datastructur.es/materials/proj/proj3/proj3)
+  - [Pac-Man with AI](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
+  - [Text-Digit Classification with ML](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
   
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
