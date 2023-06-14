@@ -1,6 +1,9 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). Currently, I'm interested in low-latency programming and building SaaS projects. Feel free to connect with me here:
+I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer. As such, I'm a webscrape, data migration, and web developer expert using Python, React, ELK, and AWS. 
+Currently, I'm interested in low-latency programming and building SaaS projects. 
+
+- Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rahulravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/rahul-ravella-359b48161/)
 [![Gmail Badge](https://img.shields.io/badge/-ravellarahul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravellarahul@gmail.com)](mailto:ravellarahul@gmail.com)
@@ -31,7 +34,8 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 
 ## Coursework Projects
 These are projects which built my foundation for understanding logic and developing intuition for programming across data structures and AI.
-Currently, I'm most fond of Pac-Man, Text-Digit Classification, and  Bear Maps so please check out their implementations
+Currently, I'm most fond of Pac-Man, Text-Digit Classification, and  Bear Maps so please check out their implementations.
+
 | Project Name | Tech Stack | Date | Completion Time | Documentation |
 | --- | --- | --- | --- | --- |
 | [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | Python | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)  
