@@ -1,4 +1,4 @@
-## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hello there!
 
 I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/).
 <br/>
