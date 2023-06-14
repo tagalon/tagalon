@@ -7,7 +7,10 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 
 
 Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI. Using Python and Java, I've worked on custom implementations for
--Project, Documentation
+
+| Project Name | Date | Completion Time | Documentation
+| --- | --- | --- | --- |
+
   - [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
   - [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
   - [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/), inspired by Plants vs. Zombies
