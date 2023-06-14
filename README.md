@@ -1,6 +1,8 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer. As such, I'm a webscrape, data migration, and web developer expert using Python, React, ELK, and AWS.
+I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer.
+<br/>
+As such, I'm a webscrape, data migration, and web developer expert using Python, React, ELK, and AWS.
 <br/>
 Currently, I'm interested in low-latency programming and building full-stack SaaS projects.
 <br/>
