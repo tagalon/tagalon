@@ -5,9 +5,6 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 [![Linkedin Badge](https://img.shields.io/badge/-rahulravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/rahul-ravella-359b48161/)
 [![Gmail Badge](https://img.shields.io/badge/-ravellarahul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravellarahul@gmail.com)](mailto:ravellarahul@gmail.com)
 
-
-Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI. Using Python and Java, I've worked on custom implementations for
-  
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -32,15 +29,15 @@ Most of my coding experience comes from developing custom functionalities in gam
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-
+Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI.
 ## Coursework Projects
 During my undergraduate, I took CS61A, CS61B, CS188.
-| Project Name | Date | Completion Time | Documentation
+| Project Name | Tech Stack | |Date | Completion Time | Documentation
 | --- | --- | --- | --- |
-| [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
-| [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)                       | 02/27/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
-| [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)               | 03/12/2020 | ~20 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
-| [Bear Maps](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)                     | 11/09/2020 | ~30 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
-| [2D Tile Dungeon Game](http://fa20.datastructur.es/materials/proj/proj3/proj3)            | 12/01/2020 | ~50 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj3/proj3)
-| [Pac-Man with AI](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)                   | 04/29/2022 | ~70 hours | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
-| [Text-Digit Classification with ML](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/) | 04/22/2022 | ~7 hours  | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
+| [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | Python | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
+| [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)                       | Python | 02/27/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
+| [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)               | Python | 03/12/2020 | ~20 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
+| [Bear Maps](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)                     | Java   | 11/09/2020 | ~30 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
+| [2D Tile Dungeon Game](http://fa20.datastructur.es/materials/proj/proj3/proj3)            | Java   | 12/01/2020 | ~50 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj3/proj3)
+| [Pac-Man with AI](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)                   | Python | 04/29/2022 | ~70 hours | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
+| [Text-Digit Classification with ML](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/) | Python | 04/22/2022 | ~7 hours  | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
