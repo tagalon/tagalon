@@ -31,7 +31,8 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 
 Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI.
 ## Coursework Projects
-During my undergraduate, I took CS61A, CS61B, CS188.
+These are projects which built my foundation for understanding logic and developing intuition for programming across data structures and AI.
+Currently, I'm most fond of Pac-Man, Text-Digit Classification, and  Bear Maps so please check out their implementations
 | Project Name | Tech Stack | Date | Completion Time | Documentation |
 | --- | --- | --- | --- | --- |
 | [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | Python | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)  
