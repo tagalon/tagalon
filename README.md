@@ -1,5 +1,4 @@
-## Hello there!
-
+## Hello there! 👋🏾
 I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/).
 <br/>
 As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer.
