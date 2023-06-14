@@ -5,6 +5,16 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 [![Linkedin Badge](https://img.shields.io/badge/-rahulravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/rahul-ravella-359b48161/)
 [![Gmail Badge](https://img.shields.io/badge/-ravellarahul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravellarahul@gmail.com)](mailto:ravellarahul@gmail.com)
 
+
+Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI. Using Python and Java, I've worked on custom implementations for
+  - Hog Game (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
+  - Type Racer (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
+  - Tower Defense Game, inspired by Plants vs. Zombies (https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
+  - Bear Maps (http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
+  - 2D Tile Dungeon Game (http://fa20.datastructur.es/materials/proj/proj3/proj3)
+  - Pac-Man with AI (https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
+  - Text-Digit Classification with ML (https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
+  
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
