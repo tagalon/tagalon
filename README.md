@@ -8,19 +8,20 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 
 Most of my coding experience comes from developing custom functionalities in games using algorithms across Data Structures and AI. Using Python and Java, I've worked on custom implementations for
 
+Coursework Projects (CS61A, CS61B, CS188)
 | Project Name | Date | Completion Time | Documentation
 | --- | --- | --- | --- |
-| [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/) |
-| [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/) |
-| [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/), inspired by Plants vs. Zombies |
-| [Bear Maps](http://fa20.datastructur.es/materials/proj/proj2d/proj2d) |
-| [2D Tile Dungeon Game](http://fa20.datastructur.es/materials/proj/proj3/proj3) |
-| [Pac-Man with AI](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/) |
-| [Text-Digit Classification with ML](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/) |
+| [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
+| [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)                       | 02/27/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
+| [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)               | 03/12/2020 | ~20 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
+| [Bear Maps](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)                     | 11/09/2020 | ~30 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj2d/proj2d)
+| [2D Tile Dungeon Game](http://fa20.datastructur.es/materials/proj/proj3/proj3)            | 12/01/2020 | ~50 hours | [Docs](http://fa20.datastructur.es/materials/proj/proj3/proj3)
+| [Pac-Man with AI](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)                   | 04/29/2022 | ~70 hours | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
+| [Text-Digit Classification with ML](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/) | 04/22/2022 | ~7 hours  | [Docs](https://inst.eecs.berkeley.edu/~cs188/sp22/project5/)
   
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
