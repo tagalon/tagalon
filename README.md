@@ -33,7 +33,7 @@ Most of my coding experience comes from developing custom functionalities in gam
 ## Coursework Projects
 During my undergraduate, I took CS61A, CS61B, CS188.
 | Project Name | Tech Stack | |Date | Completion Time | Documentation
-| --- | --- | --- | --- |
+| --- | --- |  --- | --- | --- |
 | [Hog Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)                          | Python | 02/06/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/hog/)
 | [Type Racer](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)                       | Python | 02/27/2020 | ~10 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/)
 | [Tower Defense Game](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)               | Python | 03/12/2020 | ~20 hours | [Docs](https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/)
