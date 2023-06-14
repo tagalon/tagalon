@@ -2,7 +2,7 @@
 
 I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/). Currently, I'm interested in low-latency programming and building SaaS projects. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rahul-ravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-rahul-ravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)]([https://www.linkedin.com/in/anirudhemmadi](https://www.linkedin.com/in/rahul-ravella-359b48161/)/)
 [![Gmail Badge](https://img.shields.io/badge/-ravellarahul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravellarahul@gmail.com)](mailto:ravellarahul@gmail.com)
 
 ## ⚡ Technologies
