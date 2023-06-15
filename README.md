@@ -5,14 +5,13 @@ I'm Rahul, majoring in data science & applied math @ [The University of Californ
 As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer 👨🏾‍🌾 
 <br/>
 <br/>
-As such, I'm a webscraper, data migration, and web developer expert using Python, React, ELK, and AWS.
+As such, I'm a webscraper, data migration, and web developer expert using Python, React, ELK, and AWS ⌨️ 
 <br/>
 <br/>
-Currently, I'm interested in low-latency programming and building full-stack SaaS projects.
+Currently, I'm interested in low-latency programming and building full-stack SaaS projects :four_leaf_clover:
 <br/>
 <br/>
-Check out my latest project, [Aermovies](https://main--airmovies.netlify.app/), on search optimization with ELK
-<br/>
+Check out my latest project ☁️[Aermovies](https://main--airmovies.netlify.app/)☁️ on search optimization with ELK <br/>
 <br/>
 Feel free to connect with me here:
 
