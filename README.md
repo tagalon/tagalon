@@ -1,11 +1,15 @@
 ## Hello there! 👋🏾
 I'm Rahul, majoring in data science & applied math @ [The University of California, Berkeley](https://www.berkeley.edu/).
 <br/>
+<br/>
 As a familial member of traditional farmers and future software engineer, I'd introduce myself as an internet farmer.
+<br/>
 <br/>
 As such, I'm a webscraper, data migration, and web developer expert using Python, React, ELK, and AWS.
 <br/>
+<br/>
 Currently, I'm interested in low-latency programming and building full-stack SaaS projects.
+<br/>
 <br/>
 Feel free to connect with me here:
 
