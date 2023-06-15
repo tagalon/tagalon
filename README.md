@@ -11,7 +11,7 @@ As such, I'm a webscraper, data migration, and web developer expert using Python
 Currently, I'm interested in low-latency programming and building full-stack SaaS projects.
 <br/>
 <br/>
-Check out my latest project, Aermovies, @ https://main--airmovies.netlify.app/, on search optimization with ELK
+Check out my latest project, [Aermovies](https://main--airmovies.netlify.app/), on search optimization with ELK
 <br/>
 <br/>
 Feel free to connect with me here:
