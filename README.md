@@ -44,8 +44,8 @@ Feel free to connect with me here:
 
 | Project Name | Tech Stack | Date | Completion Time | Documentation |
 | --- | --- | --- | --- | --- |
-| [IB-LLM-Analyst](https://github.com/tagalon/ib-llm-analyst)                   | Python | 08/01/2023 | ~10 hours | 
-| [Aermovies](https://aermovies.netlify.app/?size=n_20_n)                       | Python | 06/01/2020 | ~10 hours |
+| [IB-LLM-Analyst](https://github.com/tagalon/ib-llm-analyst)                   | Python | 08/01/2023 |
+| [Aermovies](https://aermovies.netlify.app/?size=n_20_n)                       | Python | 06/01/2020 |
 
 
 
