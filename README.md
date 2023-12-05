@@ -8,11 +8,15 @@ As a familial member of traditional farmers and future software engineer, I'd in
 As such, I'm a webscraper, data migration, and web developer expert using Python, React, ELK, and AWS ⌨️ 
 <br/>
 <br/>
-Currently, I'm interested in low-latency programming and building full-stack SaaS projects :four_leaf_clover:
+I've participated in Cal 9.0 Hackathon 2022 and HackTX 2023, won 3rd place for the Solana Bounty Challenge (2022).
+<br/>
+<br/>
+I'm interested in building microservices with Golang or Rust :four_leaf_clover:
 <br/>
 <br/>
 Check out my latest project ☁️[Aermovies](https://main--aermovies.netlify.app/)☁️ on search optimization with ELK <br/>
 <br/>
+
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rahulravella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ravella-359b48161/)](https://www.linkedin.com/in/rahul-ravella-359b48161/)
